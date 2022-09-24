@@ -26,3 +26,14 @@ M:\VSCode\MinecraftInEasiest\MinecraftInEasiest\obj\Debug\net6.0-windows\src\Cli
 M:\VSCode\MinecraftInEasiest\MinecraftInEasiest\obj\Debug\net6.0-windows\src\Client\src\datapacks\Datapacks.g.cs
 M:\VSCode\MinecraftInEasiest\MinecraftInEasiest\obj\Debug\net6.0-windows\src\Client\src\datapacks\Datapacks.baml
 M:\VSCode\MinecraftInEasiest\MinecraftInEasiest\bin\Debug\net6.0-windows\ressources\logo.png
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\MinecraftInEasiest.csproj.AssemblyReference.cache
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\Main.g.cs
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\src\Client\MainClient.g.cs
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\src\Client\src\datapacks\Datapacks.g.cs
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\src\Client\src\mods\InstallMod.g.cs
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\App.g.cs
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\MinecraftInEasiest_MarkupCompile.cache
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\MinecraftInEasiest_MarkupCompile.lref
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\MinecraftInEasiest.dll
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\refint\MinecraftInEasiest.dll
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\MinecraftInEasiest.pdb

@@ -1,18 +1,18 @@
 ﻿MinecraftInEasiest
-1.0.0.0
+
 
 winexe
 C#
 .cs
-m:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\
+M:\VSCode\Git\MinecraftInEasiest\obj\Debug\net6.0-windows\
 MinecraftInEasiest
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-m:\VSCode\Git\MinecraftInEasiest\App.xaml
+M:\VSCode\Git\MinecraftInEasiest\App.xaml
 4-94395334
 
-81706697806
+6-1004681010
 194-200944676
 Main.xaml;src\Client\MainClient.xaml;src\Client\src\datapacks\Datapacks.xaml;src\Client\src\mods\InstallMod.xaml;
 

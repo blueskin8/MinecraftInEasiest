@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\VSCode\\MinecraftInEasiest\\MinecraftInEasiest\\MinecraftInEasiest.csproj",
+      "projectUniqueName": "M:\\VSCode\\Git\\MinecraftInEasiest\\MinecraftInEasiest.csproj",
       "projectName": "MinecraftInEasiest",
-      "projectPath": "M:\\VSCode\\MinecraftInEasiest\\MinecraftInEasiest\\MinecraftInEasiest.csproj",
+      "projectPath": "M:\\VSCode\\Git\\MinecraftInEasiest\\MinecraftInEasiest.csproj",
       "packagesPath": "C:\\Users\\garci\\.nuget\\packages\\",
-      "outputPath": "M:\\VSCode\\MinecraftInEasiest\\MinecraftInEasiest\\obj\\",
+      "outputPath": "M:\\VSCode\\Git\\MinecraftInEasiest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
