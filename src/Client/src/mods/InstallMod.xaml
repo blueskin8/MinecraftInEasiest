@@ -1,0 +1,51 @@
+﻿<Window x:Class="MinecraftInEasiest.src.Client.src.mods.InstallMod"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MinecraftInEasiest.src.Client.src.mods"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Background="Wheat"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Title="Minecraft en plus simple - Client - Mods"
+        Height="450" Width="800"
+        >
+    <Grid>
+        <Button
+            Content="Installer un mod"
+            FontSize="30"
+            Margin="434,176,64,176"
+            BorderBrush="Black"
+            BorderThickness="3"
+            Background="Transparent" Click="Button_Click_1"
+        />
+
+        <Button
+            Content="Desinstaller un mod"
+            FontSize="30"
+            Margin="64,176,434,176"
+            BorderBrush="Black"
+            BorderThickness="3"
+            Background="Transparent" Click="Button_Click"
+        />
+
+        <Button
+            Content="CurseForge"
+            FontSize="20"
+            Margin="623,10,10,355"
+            BorderBrush="Black"
+            BorderThickness="2.5"
+            Background="Transparent" Click="Button_Click_2"
+        />
+
+        <Button
+            Content="⬅️"
+            FontSize="30"
+            Margin="-12,-14,723,386"
+            BorderThickness="0"
+            Background="Transparent" Click="Button_Click_3"
+        />
+    </Grid>
+</Window>

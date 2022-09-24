@@ -1,0 +1,33 @@
+﻿<Window x:Class="MinecraftInEasiest.src.Client.src.datapacks.Datapacks"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MinecraftInEasiest.src.Client.src.datapacks"
+        mc:Ignorable="d"
+        Background="Wheat"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Title="Minecraft en plus simple - Client - Datapacks"
+        Height="450" Width="800"
+        >
+    <Grid>
+        <Button
+            Content="Installer un datapack"
+            FontSize="30"
+            Margin="434,176,64,176"
+            BorderBrush="Black"
+            BorderThickness="3"
+            Background="Transparent"
+        />
+
+        <Button
+            Content="⬅️"
+            FontSize="30"
+            Margin="-12,-14,723,386"
+            BorderThickness="0"
+            Background="Transparent" Click="Button_Click"
+        />
+    </Grid>
+</Window>
